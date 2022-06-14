@@ -41,6 +41,8 @@
 
 1. Check minikube requirements
 
+    | Parts   | Requirements            | Command |
+    | ---     | ---                     | ---     |
     | CPU     | 2 CPUs or more          | nproc   |
     | MEMORY  | 2GB of free memory      | free -h |
     | DISK    | 20GB of free disk space | df -h   |
