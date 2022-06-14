@@ -1,4 +1,4 @@
-# Install local Kubernetes with minikube on AWS Cloud9 environment
+# Launch local Kubernetes with minikube on AWS Cloud9
 
 
 ## 1. Install minikube
