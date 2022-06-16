@@ -39,6 +39,7 @@
 
 ### 2. Start Kubernetes cluster
 
+
 1. Check minikube requirements
 
     | Parts   | Requirements            | Command |
@@ -83,7 +84,7 @@
     ```
     
     ```console
-    mspmanager:~/environment $ minikube start
+    mspuser:~/environment $ minikube start
     * minikube v1.25.2 on Ubuntu 18.04
     * Automatically selected the docker driver. Other choices: none, ssh
     * Starting control plane node minikube in cluster minikube
@@ -102,5 +103,5 @@
     * Enabled addons: default-storageclass, storage-provisioner
     * kubectl not found. If you need it, try: 'minikube kubectl -- get pods -A'
     * Done! kubectl is now configured to use "minikube" cluster and "default" namespace by default
-    mspmanager:~/environment $ 
+    mspuser:~/environment $ 
     ```
